@@ -1,4 +1,4 @@
-#Sebastien Dupont
+<h1 align="center">🍺Sebastien Dupont💻</h1>
 ###
 
 <div align="center">
