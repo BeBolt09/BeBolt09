@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">I'm Sebastien Dupont,a young Software Developer from Belgium<br><br>- 📚 I'm currently learning React Native<br>- ⚡ In my free time I workout, game, and cook!</p>
+<p align="left">I'm Sebastien Dupont,a Belgian/American young Software Developer<br><br>- 📚 I'm currently learning React Native<br>- ⚡ In my free time I workout, game, and cook!</p>
 
 ###
 
